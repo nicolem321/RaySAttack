@@ -9,3 +9,4 @@ The project aimed to run the RayS black-box attack (https://arxiv.org/abs/2006.1
 
 • Pre-trained classifiers here under the model section: https://github.com/MetaMain/ViTRobust 
 
+Note: The code in this repository has the original root code from https://github.com/MetaMain/ViTRobust
