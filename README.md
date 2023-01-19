@@ -9,6 +9,8 @@ The project aimed to run the RayS black-box attack using 50 samples from the val
 
 Important Note: The code in this repository has the original root code from https://github.com/MetaMain/ViTRobust, modifications were made mainly in RayS.ipynb and generateImage.py
 
+The deliverable and report of this project can be viewed through this link: https://docs.google.com/document/d/1QedHofmJKbkmXQf3irBg7kKqQDHEs2Sl3OsJ5TURrZk/edit
+
 # Step by Step Guide
 
 1. Install the packages listed in the Software Installation Section
