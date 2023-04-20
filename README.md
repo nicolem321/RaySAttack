@@ -6,6 +6,7 @@ The project aimed to run the RayS black-box attack using 50 samples from the val
   • RayS attack code here: https://github.com/MetaMain/ViTRobust/blob/main/VisionTransformersRobustness/VisionTransformersRobustness/AttackWrappersRayS.py 
   
   • Example of how you'd run RayS attack on a model here: https://github.com/MetaMain/ViTRobust/blob/main/VisionTransformersRobustness/VisionTransformersRobustness/DefaultMethods.py  
+
   • Pre-trained classifiers here under the model section: https://github.com/MetaMain/ViTRobust 
 
 **Important Note**: The code in this repository has the original root code from https://github.com/MetaMain/ViTRobust, modifications were made mainly in RayS.ipynb and GenerateImage.py
